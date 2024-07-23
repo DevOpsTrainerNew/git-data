@@ -1,0 +1,2 @@
+hi this is new.txt file
+which contains 2 lines
